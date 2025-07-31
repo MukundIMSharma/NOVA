@@ -1,0 +1,2 @@
+
+                Data = f.read().strip()
